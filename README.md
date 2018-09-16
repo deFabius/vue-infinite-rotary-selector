@@ -1,9 +1,6 @@
-# vue-circle-slider
+# vue-infinite-rotary-selector
 
-[![npm](https://img.shields.io/npm/v/vue-circle-slider.svg) ![npm](https://img.shields.io/npm/dm/vue-circle-slider.svg)](https://www.npmjs.com/package/vue-circle-slider)
-[![vue2](https://img.shields.io/badge/vue-2.x-brightgreen.svg)](https://vuejs.org/)
-
-Circle slider component for Vue.js
+This component has been forked from [vue-circle-slider](https://github.com/devstark-com/vue-circle-slider)
 
 ## Table of contents
 
@@ -15,16 +12,14 @@ Circle slider component for Vue.js
 # Installation
 
 ```
-npm install --save vue-circle-slider
+
 ```
 
 ## Adding into app
 
 ```javascript
 import Vue from 'vue'
-import VueCircleSlider from 'vue-circle-slider'
 
-Vue.use(VueCircleSlider)
 ```
 
 # Usage
