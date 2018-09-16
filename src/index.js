@@ -1,14 +1,14 @@
-import CircleSlider from './components/CircleSlider.vue'
+import InfiniteRotarySelector from './components/InfiniteRotarySelector.vue'
 
 // Install the components
 export function install (Vue) {
-  Vue.component('circle-slider', CircleSlider)
+  Vue.component('infinite-rotary-selector', InfiniteRotarySelector)
   /* -- Add more components here -- */
 }
 
 // Expose the components
 export {
-  CircleSlider
+  InfiniteRotarySelector
   /* -- Add more components here -- */
 }
 

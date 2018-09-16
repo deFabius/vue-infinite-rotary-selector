@@ -18,7 +18,7 @@
 import TouchPosition from '../modules/touch_position.js'
 import CircleSliderState from '../modules/circle_slider_state.js'
 export default {
-  name: 'CircleSlider',
+  name: 'InfiniteRotarySelector',
   created () {
     this.stepsCount = 1 + (this.max - this.min) / this.stepSize
     this.steps = Array.from({

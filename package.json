@@ -26,12 +26,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devstark-com/vue-circle-slider.git"
+    "url": "git+https://github.com/deFabius/vue-infinite-rotary-selector.git"
   },
   "bugs": {
-    "url": "https://github.com/devstark-com/vue-circle-slider/issues"
+    "url": "https://github.com/deFabius/vue-infinite-rotary-selector/issues"
   },
-  "homepage": "https://github.com/devstark-com/vue-circle-slider#readme",
+  "homepage": "https://github.com/deFabius/vue-infinite-rotary-selector#readme",
   "devDependencies": {
     "babel-core": "^6.0.0",
     "babel-eslint": "^7.1.1",
