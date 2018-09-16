@@ -2,8 +2,8 @@ var merge = require('webpack-merge')
 var base = require('./webpack.config.base')
 var path = require('path')
 
-var outputFile = 'vue-circle-slider'
-var globalName = 'VueCircleSlider'
+var outputFile = 'vue-infinite-rotary-selector'
+var globalName = 'VueInfiniteRotarySelector'
 
 module.exports = merge(base, {
   output: {

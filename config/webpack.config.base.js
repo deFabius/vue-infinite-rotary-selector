@@ -1,8 +1,8 @@
 var webpack = require('webpack')
 var ExtractTextPlugin = require('extract-text-webpack-plugin')
 
-var outputFile = 'vue-circle-slider'
-var globalName = 'VueCircleSlider'
+var outputFile = 'vue-infinite-rotary-selector'
+var globalName = 'VueInfiniteRotarySelector'
 
 var config = require('../package.json')
 

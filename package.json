@@ -1,6 +1,6 @@
 {
-  "name": "vue-circle-slider",
-  "description": "Circle slider component for Vue.js",
+  "name": "vue-infinite-rotary-selector",
+  "description": "Infinite rotary selector component for Vue.js",
   "version": "1.0.2",
   "author": {
     "name": "Saymon",
@@ -14,8 +14,8 @@
     "circle"
   ],
   "license": "MIT",
-  "main": "dist/vue-circle-slider.common.js",
-  "unpkg": "dist/vue-circle-slider.browser.js",
+  "main": "dist/vue-infinite-rotary-selector.common.js",
+  "unpkg": "dist/vue-infinite-rotary-selector.browser.js",
   "module": "index.js",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack --config config/webpack.config.dev.js --progress --watch",
